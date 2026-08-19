@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#FEFCBF"/>
+  <g fill="none">
+    <path d="M140 250 C120 170 190 120 270 130 C350 140 380 200 370 280 C360 350 290 380 220 370 C150 360 160 310 140 250 Z" fill="#B7791F"/><circle cx="210" cy="200" r="6" fill="#521B02" opacity="0.5"/><circle cx="290" cy="230" r="8" fill="#521B02" opacity="0.5"/><circle cx="240" cy="300" r="6" fill="#521B02" opacity="0.5"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#744210" text-anchor="middle">Potato</text>
+</svg>

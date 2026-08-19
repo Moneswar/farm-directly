@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#B2F5EA"/>
+  <g fill="none">
+    <path d="M250 360 C170 320 150 200 250 120 C350 200 330 320 250 360 Z" fill="#319795"/><path d="M250 360 L250 120" stroke="#81E6D9" stroke-width="4"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#234E52" text-anchor="middle">Mint Leaves</text>
+</svg>

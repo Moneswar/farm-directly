@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#C6F6D5"/>
+  <g fill="none">
+    <path d="M100 250 Q250 150 400 230 Q250 350 100 250 Z" fill="#2F855A"/><circle cx="160" cy="240" r="24" fill="#9AE6B4" stroke="#2F855A" stroke-width="3"/><circle cx="215" cy="235" r="26" fill="#9AE6B4" stroke="#2F855A" stroke-width="3"/><circle cx="270" cy="238" r="26" fill="#9AE6B4" stroke="#2F855A" stroke-width="3"/><circle cx="325" cy="242" r="25" fill="#9AE6B4" stroke="#2F855A" stroke-width="3"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#1C4532" text-anchor="middle">Green Peas</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#FFF5F5"/>
+  <g fill="none">
+    <circle cx="250" cy="240" r="130" fill="#E53E3E"/><circle cx="200" cy="190" r="25" fill="#FFF" opacity="0.3"/><path d="M250 110 L220 70 L240 110 L180 100 L230 120 L190 150 L245 130 L250 160 L255 130 L310 150 L270 120 L320 100 L260 110 L280 70 Z" fill="#38A169"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#9B2C2C" text-anchor="middle">Tomato</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#FEEBC8"/>
+  <g fill="none">
+    <path d="M150 280 Q140 180 220 180 Q260 180 270 230 Q320 190 370 220 Q400 260 370 310 Q320 360 240 350 Q160 360 150 280 Z" fill="#B7791F"/><circle cx="210" cy="180" r="40" fill="#B7791F"/><circle cx="340" cy="210" r="45" fill="#B7791F"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#744210" text-anchor="middle">Ginger</text>
+</svg>

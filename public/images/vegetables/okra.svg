@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#C6F6D5"/>
+  <g fill="none">
+    <path d="M220 110 L280 110 L265 380 Q250 420 245 430 Q240 420 235 380 Z" fill="#38A169"/><path d="M250 110 L250 425" stroke="#22543D" stroke-width="4"/><path d="M220 110 L280 110 L270 80 L230 80 Z" fill="#276749"/><path d="M250 80 L250 40" stroke="#276749" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#1C4532" text-anchor="middle">Lady Finger (Okra)</text>
+</svg>

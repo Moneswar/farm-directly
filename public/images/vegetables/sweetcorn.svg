@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#FEEBC8"/>
+  <g fill="none">
+    <rect x="180" y="120" width="140" height="280" rx="70" fill="#ECC94B"/><path d="M180 260 C150 320 160 400 230 420 Z" fill="#38A169"/><path d="M320 260 C350 320 340 400 270 420 Z" fill="#2F855A"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#D69E2E" text-anchor="middle">Sweet Corn</text>
+</svg>

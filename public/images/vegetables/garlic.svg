@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#E2E8F0"/>
+  <g fill="none">
+    <circle cx="250" cy="270" r="120" fill="#FFFFFF" stroke="#CBD5E0" stroke-width="3"/><path d="M250 150 Q180 260 250 390" stroke="#CBD5E0" stroke-width="4" fill="none"/><path d="M250 150 Q320 260 250 390" stroke="#CBD5E0" stroke-width="4" fill="none"/><path d="M250 150 L250 80" stroke="#A0AEC0" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#2D3748" text-anchor="middle">Garlic</text>
+</svg>

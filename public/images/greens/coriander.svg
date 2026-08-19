@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <linearGradient id="bg_cor" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0FDF4"/>
+      <stop offset="100%" stop-color="#DCFCE7"/>
+    </linearGradient>
+    <filter id="shadow_cor" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#15803D" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg_cor)"/>
+  <circle cx="400" cy="400" r="320" fill="#FFFFFF" opacity="0.85" filter="url(#shadow_cor)"/>
+  <g filter="url(#shadow_cor)">
+    <path d="M 380 620 C 390 500, 320 380, 260 260" stroke="#16A34A" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M 400 640 C 410 480, 400 320, 400 180" stroke="#15803D" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <path d="M 420 630 C 430 490, 480 370, 540 250" stroke="#16A34A" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <g transform="translate(400, 180)">
+      <path d="M 0 0 C -25 -20, -45 -15, -40 10 C -40 25, -20 35, 0 45 C 20 35, 40 25, 40 10 C 45 -15, 25 -20, 0 0 Z" fill="#22C55E"/>
+      <path d="M -30 -30 C -55 -20, -50 10, -25 25 Z" fill="#16A34A"/>
+      <path d="M 30 -30 C 55 -20, 50 10, 25 25 Z" fill="#16A34A"/>
+    </g>
+    <g transform="translate(260, 260)">
+      <path d="M 0 0 C -35 -20, -50 0, -35 25 C -20 35, 0 40, 0 50 C 15 35, 30 20, 25 0 Z" fill="#22C55E"/>
+      <path d="M -25 -25 C -45 -10, -40 15, -20 20 Z" fill="#15803D"/>
+    </g>
+    <g transform="translate(540, 250)">
+      <path d="M 0 0 C 35 -20, 50 0, 35 25 C 20 35, 0 40, 0 50 C -15 35, -30 20, -25 0 Z" fill="#22C55E"/>
+      <path d="M 25 -25 C 45 -10, 40 15, 20 20 Z" fill="#15803D"/>
+    </g>
+  </g>
+  <rect x="180" y="680" width="440" height="70" rx="35" fill="#166534" filter="url(#shadow_cor)"/>
+  <text x="400" y="725" font-family="'Segoe UI', Roboto, sans-serif" font-size="30" font-weight="800" fill="#FFFFFF" text-anchor="middle">🌿 CORIANDER LEAVES</text>
+</svg>

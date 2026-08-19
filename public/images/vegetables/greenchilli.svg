@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#C6F6D5"/>
+  <g fill="none">
+    <path d="M220 100 Q280 120 270 240 Q250 360 180 430 Q240 370 290 240 Q300 120 250 100 Z" fill="#2F855A"/><path d="M230 80 Q210 50 180 40" stroke="#1C4532" stroke-width="8" stroke-linecap="round" fill="none"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#1C4532" text-anchor="middle">Green Chilli</text>
+</svg>

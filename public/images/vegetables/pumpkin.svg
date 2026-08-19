@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#FEEBC8"/>
+  <g fill="none">
+    <ellipse cx="250" cy="270" rx="140" ry="105" fill="#DD6B20"/><ellipse cx="200" cy="270" rx="110" ry="100" fill="#ED8936"/><ellipse cx="300" cy="270" rx="110" ry="100" fill="#ED8936"/><path d="M250 160 Q230 120 210 100 Q230 105 245 140 Z" fill="#744210"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#9C4221" text-anchor="middle">Pumpkin</text>
+</svg>

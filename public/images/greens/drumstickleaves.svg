@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <linearGradient id="bg_d" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0FDF4"/>
+      <stop offset="100%" stop-color="#DCFCE7"/>
+    </linearGradient>
+    <filter id="shadow_d" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#14532D" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg_d)"/>
+  <circle cx="400" cy="400" r="320" fill="#FFFFFF" opacity="0.85" filter="url(#shadow_d)"/>
+  <g filter="url(#shadow_d)">
+    <path d="M 220 640 Q 380 460 580 200" stroke="#854D0E" stroke-width="7" fill="none"/>
+    <circle cx="320" cy="520" r="14" fill="#22C55E"/>
+    <circle cx="300" cy="490" r="12" fill="#16A34A"/>
+    <circle cx="350" cy="540" r="13" fill="#15803D"/>
+    <circle cx="400" cy="420" r="16" fill="#4ADE80"/>
+    <circle cx="370" cy="390" r="14" fill="#22C55E"/>
+    <circle cx="430" cy="440" r="15" fill="#16A34A"/>
+    <circle cx="480" cy="320" r="16" fill="#4ADE80"/>
+    <circle cx="450" cy="290" r="14" fill="#22C55E"/>
+    <circle cx="510" cy="340" r="15" fill="#15803D"/>
+    <circle cx="560" cy="220" r="15" fill="#4ADE80"/>
+    <circle cx="540" cy="190" r="13" fill="#22C55E"/>
+    <circle cx="590" cy="210" r="13" fill="#22C55E"/>
+  </g>
+  <rect x="160" y="680" width="480" height="70" rx="35" fill="#166534" filter="url(#shadow_d)"/>
+  <text x="400" y="725" font-family="'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800" fill="#FFFFFF" text-anchor="middle">🌿 DRUMSTICK (MORINGA) LEAVES</text>
+</svg>

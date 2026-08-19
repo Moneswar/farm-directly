@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#C6F6D5"/>
+  <g fill="none">
+    <path d="M120 250 Q250 170 380 230 Q420 250 380 270 Q250 330 120 250 Z" fill="#276749"/><path d="M120 250 Q100 240 80 250" stroke="#1A4D32" stroke-width="8" fill="none"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#1A4D32" text-anchor="middle">Bitter Gourd</text>
+</svg>

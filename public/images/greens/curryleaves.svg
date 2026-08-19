@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <linearGradient id="bg_curry" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0FDF4"/>
+      <stop offset="100%" stop-color="#DCFCE7"/>
+    </linearGradient>
+    <filter id="shadow_c" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#14532D" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg_curry)"/>
+  <circle cx="400" cy="400" r="320" fill="#FFFFFF" opacity="0.85" filter="url(#shadow_c)"/>
+  <g filter="url(#shadow_c)">
+    <path d="M 250 650 Q 380 450 550 180" stroke="#78350F" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <path d="M 310 570 C 270 540, 240 540, 230 560 C 250 590, 290 590, 310 570 Z" fill="#15803D"/>
+    <path d="M 330 540 C 370 510, 400 510, 410 530 C 390 560, 350 560, 330 540 Z" fill="#166534"/>
+    <path d="M 370 480 C 320 450, 280 450, 270 470 C 290 500, 340 500, 370 480 Z" fill="#15803D"/>
+    <path d="M 390 450 C 440 420, 480 420, 490 440 C 470 470, 420 470, 390 450 Z" fill="#166534"/>
+    <path d="M 430 380 C 380 340, 330 340, 320 360 C 340 390, 400 390, 430 380 Z" fill="#22C55E"/>
+    <path d="M 450 350 C 500 310, 550 310, 560 330 C 540 360, 480 360, 450 350 Z" fill="#15803D"/>
+    <path d="M 490 270 C 450 230, 400 230, 390 250 C 410 280, 460 280, 490 270 Z" fill="#22C55E"/>
+    <path d="M 510 240 C 550 200, 600 200, 610 220 C 590 250, 540 250, 510 240 Z" fill="#15803D"/>
+    <path d="M 550 180 C 540 130, 570 110, 580 140 C 580 170, 560 180, 550 180 Z" fill="#22C55E"/>
+  </g>
+  <rect x="180" y="680" width="440" height="70" rx="35" fill="#14532D" filter="url(#shadow_c)"/>
+  <text x="400" y="725" font-family="'Segoe UI', Roboto, sans-serif" font-size="30" font-weight="800" fill="#FFFFFF" text-anchor="middle">🍃 CURRY LEAVES</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#C6F6D5"/>
+  <g fill="none">
+    <path d="M150 220 C140 340 210 390 250 390 C290 390 360 340 350 220 C340 150 290 140 250 150 C210 140 160 150 150 220 Z" fill="#2F855A"/><path d="M250 150 L250 90" stroke="#1A202C" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#1C4532" text-anchor="middle">Capsicum</text>
+</svg>

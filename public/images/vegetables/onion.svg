@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#FED7E2"/>
+  <g fill="none">
+    <path d="M250 120 C140 160 120 280 180 340 C220 375 280 375 320 340 C380 280 360 160 250 120 Z" fill="#B83280"/><path d="M250 120 L230 50 M250 120 L270 50" stroke="#38A169" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#702459" text-anchor="middle">Onion</text>
+</svg>

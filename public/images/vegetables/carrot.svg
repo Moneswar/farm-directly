@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="30" fill="#FEEBC8"/>
+  <g fill="none">
+    <path d="M210 140 Q250 130 290 140 C280 240 260 360 250 420 C240 360 220 240 210 140 Z" fill="#DD6B20"/><path d="M250 140 L220 50 M250 140 L250 30 M250 140 L280 50" stroke="#38A169" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <rect x="50" y="415" width="400" height="55" rx="16" fill="rgba(255,255,255,0.85)"/>
+  <text x="250" y="452" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="900" fill="#C05621" text-anchor="middle">Carrot</text>
+</svg>
