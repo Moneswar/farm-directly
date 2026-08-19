@@ -340,9 +340,13 @@ export const getProductById = async (req: Request, res: Response) => {
     }
 
     if (product) {
+      const wholesaleInfo = calculateWholesalePrice(product, 10);
       product = {
         ...product,
         price: calculateCustomerSellingPrice(product),
+        wholesalePrice: wholesaleInfo.wholesalePrice,
+        wholesaleBaseCost: wholesaleInfo.baseCost,
+        minWholesaleQuantity: wholesaleInfo.minQuantity,
       };
     }
 

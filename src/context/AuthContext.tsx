@@ -167,7 +167,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       setUser(loggedUser);
       return loggedUser;
     } else {
-      throw new Error(res.message);
+      throw new Error(res.message || 'Registration failed.');
     }
   };
 

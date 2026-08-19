@@ -87,6 +87,9 @@ export interface IProduct {
   storageHandlingCost?: number;
   assignedHubId?: string;
   assignedHubName?: string;
+  wholesalePrice?: number;
+  wholesaleBaseCost?: number;
+  minWholesaleQuantity?: number;
   createdAt: string;
   updatedAt: string;
 }
