@@ -72,7 +72,7 @@ cp .env.example .env
 | :--- | :--- | :--- |
 | `PORT` | Server listening port | `3000` |
 | `NODE_ENV` | Application environment | `development` / `production` |
-| `MONGODB_URI` | MongoDB connection URI | `mongodb://127.0.0.1:27017/farm` |
+| `MONGO_URI` (or `MONGODB_URI`) | MongoDB connection URI (Atlas or local) | `mongodb+srv://...` or `mongodb://127.0.0.1:27017/farm` |
 | `ALLOW_JSON_FALLBACK` | Fallback flag for memory storage | `false` |
 | `JWT_SECRET` | Secret key for signing JWT tokens | `your_strong_jwt_secret_key` |
 | `RAZORPAY_KEY_ID` | Payment gateway API key | `your_razorpay_key_id` |
